@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "Docs",
   "colors": {
-    "primary": "#ffffff",
-    "light": "#000000",
-    "dark": "#ffffff"
+    "primary": "#ff0000",
+    "light": "#0000ff",
+    "dark": "#00ff00"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -110,5 +110,9 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "appearance": {
+    "default": "dark",
+    "strict": true
   }
 }
