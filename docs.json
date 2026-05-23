@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "Docs",
   "colors": {
-    "primary": "#ff0000",
-    "light": "#0000ff",
-    "dark": "#00ff00"
+    "primary": "#000000",
+    "light": "#ffffff",
+    "dark": "#ffffff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
